@@ -1,0 +1,251 @@
+1367586113:: 9_01_48 EDT
+475174:Yonder Alonso:Alonso:H:SDG @ chc:F,4-2:1:2:1:1:1::::0:0:::::::::::::1::::::2:::1:::PH-1B:::
+514888:Jose Altuve:Altuve:H:HOU v det:F,3-7:1:5:0:0:0::::1:2::::::::::1:::1::::::2:::1:::2B:::
+506560:Alexi Amarista:Amarista:H:SDG @ chc:F,4-2:1:0:0:0:0::::0:0:::::::::::::1::::::0:::1:::PR-CF:::
+462101:Elvis Andrus:Andrus:H:TEX v chw:F,1-3:1:3:0:0:0::::1:1::::::::::1:::1::::::2:::1:::SS:::
+150449:Rick Ankiel:Ankiel:H:HOU v det:F,3-7:1:2:0:0:1::::0:1:::::::::::::1:::1:::0:::0:::RF:::
+493114:Norichika Aoki:Aoki:H:MIL v stl:F,5-6:1:5:1:0:2:2:::0:0::::::::::1:::1::::::1:::1:::RF:::
+450317:J.P. Arencibia:Arencibia:H:TOR v bos:F,1-3:1:4:0:0:1::::0:2::::::::::1:::1::::::1:::1:::C:::
+488671:Alex Avila:Avila:H:DET @ hou:F,7-3:1:3:0:0:0::::1:3::::::::::1:::1::::::0:::0:::C::1:
+430947:Erick Aybar:Aybar:H:LAA v bal:F,1-5:1:4:0:0:1::::0:0::::::::::1:::1::::::0:::1:::SS:::
+425557:Jeff Baker:Baker, Je:H:TEX v chw:F,1-3:1:3:0:0:0::::0:3::::::::::1:::1::::::1:::0:::LF:::
+488681:Brandon Barnes:Barnes, B:H:HOU v det:F,3-7:1:5:0:0:0::::0:3::::::::::1:::1::::::1:::1:::RF-CF-RF:::
+446381:Darwin Barney:Barney:H:CHC v sdg:F,2-4:1:2:0:0:0::::2:0::::::::::1:::1::::::0:::1:1::2B:::
+430832:Jose Bautista:Bautista:H:TOR v bos:F,1-3:1:3:0:0:1::::1:0::::::::::1:::1:::1:::0:::1:::RF:::
+136860:Carlos Beltran:Beltran:H:STL @ mil:F,6-5:1:5:0:0:1::::0:1::::::::::1:::1::::::3:::1:::RF:::
+134181:Adrian Beltre:Beltre, A:H:TEX v chw:F,1-3:1:4:1:1:1:::1:0:1::::::::::1:::1::::::5:1::1:::3B:::
+204020:Lance Berkman:Berkman:H:TEX v chw:F,1-3:1:2:0:0:0::::2:1::::::::::1:::1::::::0:::0:::DH:::
+465668:Roger Bernadina:Bernadina:H:WAS @ atl:F,3-1:1:3:0:0:0::::0:2:::::::::::::1::::::4:::1:::PH-RF:::
+435358:Yuniesky Betancourt:Betancourt, Y:H:MIL v stl:F,5-6:1:3:0:0:0::::1:2::::::::::1:1::1::::::3:::1:::3B:::
+452035:Kyle Blanks:Blanks:H:SDG @ chc:F,4-2:1:2:1:0:1::::1:0::::::::::1:1::1::::::0:::1:::RF-LF:::
+466988:Emilio Bonifacio:Bonifacio:H:TOR v bos:F,1-3:1:3:0:0:0::::0:0::::::::::1:::1::::::3:::0:::2B:::
+474865:Julio Borbon:Borbon:H:CHC v sdg:F,2-4:1:1:0:0:0::::0:0:::::::::::::1::::::1:::1:::RF:::
+542963:Rob Brantly:Brantly:H:MIA @ phi:F,2-7:1:4:0:0:0::::0:1::::::::::1:::1::::::3:::1:::C::1:
+460075:Ryan Braun:Braun:H:MIL v stl:F,5-6:1:5:0:1:2:1:::0:1::::::::::1:::1::::::3:::1:::LF:::
+502126:Domonic Brown:Brown, D:H:PHI v mia:F,7-2:1:4:2:2:3:::1:0:0::::::::::1:::1::::::0:::1:::LF:::
+456714:Billy Butler:Butler, B:H:KAN v tam:B4:1:2:0:0:0::::0:1::::::::::1:::1::::::1:::1:::DH:::
+465784:Everth Cabrera:Cabrera, E:H:SDG @ chc:F,4-2:1:4:0:1:1::::0:0:1:::::::::1:::1::::::0:::1:::SS:::
+408234:Miguel Cabrera:Cabrera, M:H:DET @ hou:F,7-3:1:5:1:1:2::::2:0::::::::::1:::1::::::1:1::1:1::3B:::
+466320:Melky Cabrera:Cabrera, Me:H:TOR v bos:F,1-3:1:4:0:0:0::::0:3::::::::::1:::1::::::2:::1:::LF:::
+455077:Mike Carp:Carp:H:BOS @ tor:F,3-1:1:3:0:1:1::::1:2::::::::::1:::1::::::1:::1:::1B:::
+572761:Matt Carpenter:Carpenter, M:H:STL @ mil:F,6-5:1:5:1:0:2::::0:0::::::::::1:::1::::::0:::1:::2B-3B:::
+474892:Chris Carter:Carter:H:HOU v det:F,3-7:1:5:0:0:0::::0:2::::::::::1:::1::::::1:::1:::1B-LF:::
+456078:Welington Castillo:Castillo:H:CHC v sdg:F,2-4:1:4:1:0:2::::0:1::::::::::1:::1::::::2:::1:::C::1:
+488771:Jason Castro:Castro, Ja:H:HOU v det:F,3-7:1:6:1:2:1:::1:0:2::::::::::1:::1::::::1:::1:::C:::
+516770:Starlin Castro:Castro, S:H:CHC v sdg:F,2-4:1:4:0:0:1::::0:1::::::::::1:::1::::::0:::1:::SS:::
+458085:Chris Coghlan:Coghlan:H:MIA @ phi:F,2-7:1:1:0:0:0::::0:1:::::::::::::1::::::0:::0:::PH:::
+474233:Hank Conger:Conger:H:LAA v bal:F,1-5:1:3:0:0:1::::0:0::::::::::1:::1::::::0:::1:::C:::
+502161:Scott Cousins:Cousins:H:LAA v bal:F,1-5:1:1:0:0:0::::0:1:::::::::::::1::::::0:::0:::PH:::
+501800:Allen Craig:Craig:H:STL @ mil:F,6-5:1:5:1:2:1::::0:1::::::::::1:::1::::::2:::1:::1B:::
+443558:Nelson Cruz:Cruz, N:H:TEX v chw:F,1-3:1:2:0:0:0::::2:1:1:::::::::1:::1::::::0:::1:::RF:::
+448801:Chris Davis:Davis, C:H:BAL @ laa:F,5-1:1:3:0:1:1:1:::1:1::::::::::1:::1::::::0:::1:::1B:::
+434658:Rajai Davis:Davis, R:H:TOR v bos:F,1-3:1:1:0:0:0::::0:0:::::::::::::1::::::1:::1:::PH:::
+457477:Alejandro De Aza:De Aza:H:CHW @ tex:F,3-1:1:4:0:0:2::::1:2::::::::::1:::1::::::1:::1:::CF:::
+430203:David DeJesus:DeJesus:H:CHC v sdg:F,2-4:1:1:0:0:0::::0:0:::::::::::::1::::::0:::1:::PH:::
+456121:Chris Denorfia:Denorfia:H:SDG @ chc:F,4-2:1:3:1:0:0::::1:1::::::::::1:::1::::::1:::0:::CF-RF:::
+518614:Daniel Descalso:Descalso:H:STL @ mil:F,6-5:1:1:0:0:0::::0:0:::::::::::::1:::1:::0:::1:::2B:::
+435622:Ian Desmond:Desmond:H:WAS @ atl:F,3-1:1:4:0:0:1:1:::0:3::::::::::1:::1::::::1:::1:::SS:::
+543108:Andy Dirks:Dirks:H:DET @ hou:F,7-3:1:3:0:0:0::::0:0::::::::::1:::1::::::1:::0:::LF:::
+425785:Greg Dobbs:Dobbs:H:MIA @ phi:F,2-7:1:4:0:0:1::::0:1::::::::::1:::1::::::2:::1:::1B:::
+518625:Matt Dominguez:Dominguez:H:HOU v det:F,3-7:1:5:0:0:0::::0:4::::::::::1:::1::::::0:::1:::3B:::
+452220:Stephen Drew:Drew:H:BOS @ tor:F,3-1:1:2:0:1:0::::1:2::::::::::1:::1::1::::2:::1:::SS:::
+276055:Adam Dunn:Dunn, A:H:CHW @ tex:F,3-1:1:3:0:0:1::::1:2::::::::::1:::1::::::0:::1:::1B:::
+502481:Jarrod Dyson:Dyson, J:H:KAN v tam:B4:1:1:0:0:0::::0:0::::::::::1:::1::::::0:::1:::CF:::
+453056:Jacoby Ellsbury:Ellsbury:H:BOS @ tor:F,3-1:1:4:0:1:1::::1:0::::::::::1:::1::::::3:::1:::CF:::
+429665:Edwin Encarnacion:Encarnacion:H:TOR v bos:F,1-3:1:4:0:0:1::::0:0::::::::::1:::1::::::4:2::1:::DH:::
+444876:Alcides Escobar:Escobar, A:H:KAN v tam:B4:1:2:0:0:0::::0:0::::::::::1:::1::::::1:::1:::SS:::
+488862:Yunel Escobar:Escobar, Y:H:TAM @ kan:B4:1:1:0:0:0::::1:0::::::::::1:::1::::::1:::1:::SS:::
+425902:Prince Fielder:Fielder:H:DET @ hou:F,7-3:1:5:2:0:1::::1:0::::::::::1:1::1::::::5:::1:1::1B:::
+475247:Ryan Flaherty:Flaherty:H:BAL @ laa:F,5-1:1:4:0:0:0::::0:2::::::::::1:::1::::::1:::1:::2B:::
+452095:Tyler Flowers:Flowers:H:CHW @ tex:F,3-1:1:4:1:3:1:::1:0:1::::::::::1:::1::::::1:::1:::C:::
+425796:Jeff Francoeur:Francoeur:H:KAN v tam:B4:1:0:0:0:0::::1:0::::::::::1:::1::::::0:::1:::RF:::
+435623:Kevin Frandsen:Frandsen:H:PHI v mia:F,7-2:1:1:0:0:0::::0:0:::::::::::::1::::::1:1::0:::PH:::
+518692:Freddie Freeman:Freeman, F:H:ATL v was:F,1-3:1:4:0:0:1::::0:0::::::::::1:::1::::::0:::1:::1B:::
+501896:David Freese:Freese:H:STL @ mil:F,6-5:1:3:1:1:2::::1:1::::::::::1:::1::::::1:::0:::3B:::
+544725:Leury Garcia:Garcia, L:H:TEX v chw:F,1-3:1:0:0:0:0::::0:0:::::::::::::1::::::0:::1:::PR-DH:::
+594828:Evan Gattis:Gattis:H:ATL v was:F,1-3:1:4:0:0:2::::0:0::::::::::1:::1::::::0:::1:::C:::
+502226:Craig Gentry:Gentry:H:TEX v chw:F,1-3:1:2:0:0:0::::0:0::::::::::1:::1::::::1:::0:::CF:::
+543216:Conor Gillaspie:Gillaspie:H:CHW @ tex:F,3-1:1:4:1:0:1::::0:1::::::::::1:::1::::::3:::1:::3B:::
+430404:Jonny Gomes:Gomes, J:H:BOS @ tor:F,3-1:1:4:0:0:2:1:::1:0::::::::::1:::1::::::1:::1:::LF:::
+460576:Carlos Gomez:Gomez, C:H:MIL v stl:F,5-6:1:4:1:1:2::::1:1:2:::::::::1:::1::::::1:::1:::CF:::
+136460:Alex Gonzalez:Gonzalez, Al:H:MIL v stl:F,5-6:1:5:0:1:1::::0:1::::::::::1:::1::::::4:::0:::1B:::
+503556:Marwin Gonzalez:Gonzalez, M:H:HOU v det:F,3-7:1:5:0:0:0::::0:1::::::::::1:::1::::::0:::1:::SS:::
+460086:Alex Gordon:Gordon, A:H:KAN v tam:B4:1:2:0:1:1::::0:1::::::::::1:::1::::::0:::1:::LF:::
+543257:Robbie Grossman:Grossman:H:HOU v det:F,3-7:1:5:1:0:2:1:::1:2::1::::::::1:::1::::::0:::1:::CF-LF-CF:::
+461882:Jesus Guzman:Guzman:H:SDG @ chc:F,4-2:1:4:1:0:1::::0:1::::::::::1:::1::::::3:::0:::1B:::
+576397:Jedd Gyorko:Gyorko:H:SDG @ chc:F,4-2:1:4:0:0:0::::0:0::::::::::1:::1::::::4:::1:::2B:::
+430668:Scott Hairston:Hairston, S:H:CHC v sdg:F,2-4:1:3:1:2:1:::1:0:0::::::::::1:::1::::::2:::0:::RF:::
+285078:Josh Hamilton:Hamilton:H:LAA v bal:F,1-5:1:4:0:0:1::::0:2::::::::::1:::1::::::0:::1:::RF:::
+429666:J.J. Hardy:Hardy:H:BAL @ laa:F,5-1:1:4:0:0:0::::0:0::::::::::1:::1::::::3:::1:::SS:::
+547180:Bryce Harper:Harper:H:WAS @ atl:F,3-1:1:4:0:0:0::::1:1::::::::::1:::1::::::3:::1:1::LF:::
+430593:Brendan Harris:Harris, B:H:LAA v bal:F,1-5:1:2:0:0:0::::0:0::::::::::1:::1:::1:::1:::0:::3B:::
+452104:Chase Headley:Headley:H:SDG @ chc:F,4-2:1:4:0:1:1::::0:0::::::::::1:::1::::::0:::1:::3B:::
+588751:Adeiny Hechavarria:Hechavarria:H:MIA @ phi:F,2-7:1:4:0:0:1::1::0:0::::::::::1:::1::::::1:::1:::SS:::
+407812:Matt Holliday:Holliday:H:STL @ mil:F,6-5:1:4:1:0:0::::0:2::::::::::1:1::1::::::2:::1:::LF:::
+543333:Eric Hosmer:Hosmer:H:KAN v tam:B4:1:1:0:0:1::::0:0::::::::::1:::1::::::0:::1:::1B:::
+429667:Ryan Howard:Howard:H:PHI v mia:F,7-2:1:2:2:1:1:::1:2:1::::::::::1:::1::::::1:::1:1::1B:::
+460026:Nick Hundley:Hundley:H:SDG @ chc:F,4-2:1:4:0:0:1:1:::0:1::::::::::1:::1::::::2:::1:::C:::
+116338:Torii Hunter:Hunter, To:H:DET @ hou:F,7-3:1:6:0:1:1::::1:1::::::::::1:::1::::::2:::1:::RF:::
+408299:Omar Infante:Infante:H:DET @ hou:F,7-3:1:6:1:0:1:1:::0:2::::::::::1:::1::::::3:::1:::2B:::
+457706:Austin Jackson:Jackson, A:H:DET @ hou:F,7-3:1:7:2:0:3:1:::0:4::::::::::1:::1::::::0:::1:::CF:::
+445055:Jon Jay:Jay:H:STL @ mil:F,6-5:1:4:0:0:2::::0:0::::::::::1:::1::::::2:1::1:::CF:::
+457775:Desmond Jennings:Jennings, D:H:TAM @ kan:B4:1:2:0:0:0::::0:2::::::::::1:::1::::::0:::1:::CF:::
+499864:Luis Jimenez:Jimenez, L:H:LAA v bal:F,1-5:1:0:0:0:0::::0:0:::::::::::::1::::::0:::1:::3B:::
+453400:Chris Johnson:Johnson, C:H:ATL v was:F,1-3:1:4:0:0:0::::0:2::::::::::1:::1::::::1:::1:::3B:::
+471107:Elliot Johnson:Johnson, E:H:KAN v tam:B4:1:1:1:0:1::::0:0:1:::::::::1:::1::::::0:::1:::2B:::
+430637:Kelly Johnson:Johnson, K:H:TAM @ kan:B4:1:1:0:0:0::::0:1::::::::::1:::1::::::2:::1:::LF:::
+407862:Reed Johnson:Johnson, Re:H:ATL v was:F,1-3:1:1:0:0:1::::0:0:::::::::::::1::::::0:::0:::PH:::
+430945:Adam Jones:Jones, Ad:H:BAL @ laa:F,5-1:1:4:1:0:1::::0:0::::::::::1:::1::::::4:::1:::CF:::
+459964:Matt Joyce:Joyce:H:TAM @ kan:B4:1:1:0:0:1:1:::1:0::1::::::::1:::1::::1::0:::1:::RF:::
+493128:Munenori Kawasaki:Kawasaki:H:TOR v bos:F,1-3:1:2:0:0:0::::2:0:1:::::::::1:::1::::::1:1::1:::SS:::
+430603:Don Kelly:Kelly, D:H:DET @ hou:F,7-3:1:3:1:1:2:1:::0:1:::::::::::::1::::::0:::1:::PR-DH:::
+435062:Howie Kendrick:Kendrick, H:H:LAA v bal:F,1-5:1:3:0:0:0::::0:1::::::::::1:::1::::::0:::1:::2B:::
+433898:Jeff Keppinger:Keppinger:H:CHW @ tex:F,3-1:1:5:0:0:1::::0:0::::::::::1:::1::::::2:::1:::2B:::
+435079:Ian Kinsler:Kinsler:H:TEX v chw:F,1-3:1:3:0:0:1:1:::1:1::::::::::1:::1::::::1:::1:::2B:::
+117244:Paul Konerko:Konerko:H:CHW @ tex:F,3-1:1:4:0:0:0::::0:1::::::::::1:::1::::::5:::1:::DH:::
+518902:Pete Kozma:Kozma:H:STL @ mil:F,6-5:1:3:0:2:1::::1:0::::::::::1:::1::::::0:::1:::SS:::
+456124:Erik Kratz:Kratz:H:PHI v mia:F,7-2:1:3:1:1:1::::1:2::::::::::1:::1::::::1:::1:::C:::
+425560:Adam LaRoche:LaRoche:H:WAS @ atl:F,3-1:1:3:0:0:1:1:::1:1::::::::::1:::1::::::0:::1:::1B:::
+477186:Brandon Laird:Laird:H:HOU v det:F,3-7:1:1:0:0:0::::0:0:::::::::::::1::::::1:::1:::PH-1B:::
+503351:Blake Lalli:Lalli:H:MIL v stl:F,5-6:1:1:1:0:1::::0:0:::::::::::::1::::::0:::0:::PH:::
+543434:Brett Lawrie:Lawrie:H:TOR v bos:F,1-3:1:3:1:1:1:::1:1:1::::::::::1:::1:::1:::1:::1:::3B:::
+452252:Adam Lind:Lind:H:TOR v bos:F,1-3:1:3:0:0:0::::1:2::::::::::1:::1::::::3:::1:::1B:::
+543459:Steve Lombardozzi:Lombardozzi:H:WAS @ atl:F,3-1:1:4:0:1:1::::1:1::::::::::1:::1::::::2:::1:::2B:::
+425766:James Loney:Loney:H:TAM @ kan:B4:1:2:0:0:1::::0:0::::::::::1:::1::::::0:::1:::1B:::
+446334:Evan Longoria:Longoria:H:TAM @ kan:B4:1:2:0:0:0::::0:2::::::::::1:::1::::::1:::1:::3B:::
+518960:Jonathan Lucroy:Lucroy:H:MIL v stl:F,5-6:1:1:0:0:0::::0:1:::::::::::::1::::::1:::1:::PH:::
+592518:Manny Machado:Machado, M:H:BAL @ laa:F,5-1:1:4:0:1:2::::1:0::::::::::1:::1::::::0:::1:::3B:::
+455117:Martin Maldonado:Maldonado:H:MIL v stl:F,5-6:1:4:0:1:1::::1:2::::::::::1:::1::::::4:::1:::C:::
+455976:Nick Markakis:Markakis:H:BAL @ laa:F,5-1:1:5:0:1:1:1:::0:0::::::::::1:::1::::::3:1::1:::RF:::
+547982:Leonys Martin:Martin, L:H:TEX v chw:F,1-3:1:2:0:0:1::::0:1:::::::::::::1::::::2:::1:::PH-CF:::
+494686:Fernando Martinez:Martinez, F:H:HOU v det:F,3-7:1:2:0:0:0::::0:0::::::::::1:::1::::::0:::0:::LF:::
+400121:Victor Martinez:Martinez, V:H:DET @ hou:F,7-3:1:4:0:0:1::::0:1::::::::::1:::1::::::3:::0:::DH:::
+460055:John Mayberry:Mayberry:H:PHI v mia:F,7-2:1:3:0:0:0::::1:0::::::::::1:::1::::::3:::1:::CF:::
+434661:Nate McLouth:McLouth:H:BAL @ laa:F,5-1:1:5:1:2:2:::1:0:0::::::::::1:::1::::::1:::1:::LF:::
+519025:Will Middlebrooks:Middlebrooks:H:BOS @ tor:F,3-1:1:4:1:0:0::::1:1::::::::::1:::1::::::5:::1:::3B:::
+150040:Jose Molina:Molina, J:H:TAM @ kan:B4:1:1:0:0:0::::0:1::::::::::1:::1::::::2:::1:::C:::
+425877:Yadier Molina:Molina, Y:H:STL @ mil:F,6-5:1:4:1:1:2::::0:1::::::::::1:::1::::::0:::1:::C:::
+519048:Mitch Moreland:Moreland:H:TEX v chw:F,1-3:1:3:0:0:0::::0:1::::::::::1:1::1::::::3:::1:::1B:::
+519058:Mike Moustakas:Moustakas:H:KAN v tam:B4:1:1:0:0:0::::0:0::::::::::1:::1::::::2:::1:::3B:::
+461815:David Murphy:Murphy, Dv:H:TEX v chw:F,1-3:1:0:0:0:0::::1:0:::::::::::::1::::::0:::1:::LF:::
+435063:Mike Napoli:Napoli:H:BOS @ tor:F,3-1:1:5:1:0:1:1:::0:2::::::::::1:::1::::::3:1::1:::DH:::
+537953:Daniel Nava:Nava:H:BOS @ tor:F,3-1:1:3:0:0:1:1:::2:1::::::::::1:::1::::::1:::1:::RF:::
+425556:Laynce Nix:Nix, L:H:PHI v mia:F,7-2:1:0:1:0:0::::1:0:::::::::::::1::::::0:::1:::RF:::
+542303:Marcell Ozuna:Ozuna:H:MIA @ phi:F,2-7:1:4:0:0:1:1:::0:1::::::::::1:::1::::::0:::1:::RF:::
+456030:Dustin Pedroia:Pedroia:H:BOS @ tor:F,3-1:1:5:0:0:0::::0:0::::::::::1:::1::::::6:::1:::2B:::
+430910:Brayan Pena:Pena, B:H:DET @ hou:F,7-3:1:3:0:0:1::::0:1:::::::::::::1::::::3:::1:::PH-C:::
+150289:Carlos Pena:Pena, C:H:HOU v det:F,3-7:1:6:1:1:2:::1:0:1::::::::::1:::1::::::1:::1:::DH:::
+425509:Jhonny Peralta:Peralta, Jh:H:DET @ hou:F,7-3:1:6:0:1:2::::0:3::::::::::1:::1::1::::1:::1:::SS:::
+521692:Salvador Perez:Perez, S:H:KAN v tam:B4:1:1:0:0:0::::0:0::::::::::1:::1::::::2:1::1:::C:::
+334393:Juan Pierre:Pierre:H:MIA @ phi:F,2-7:1:3:1:0:0::::1:0:1:::::::::1:::1::::::1:::1:::LF:::
+150229:A.J. Pierzynski:Pierzynski:H:TEX v chw:F,1-3:1:4:0:0:0::::0:1::::::::::1:::1::::::2:::1:::C:::
+135784:Placido Polanco:Polanco:H:MIA @ phi:F,2-7:1:4:0:0:1::::0:1::::::::::1:::1::::::1:1::1:::3B:::
+572389:Josh Prince:Prince:H:MIL v stl:F,5-6:1:0:0:0:0::::0:0:::::::::::::1::::::0:::1:::PR:::
+405395:Albert Pujols:Pujols:H:LAA v bal:F,1-5:1:4:1:1:1:::1:0:0::::::::::1:::1::::::2:::1:::1B:::
+435041:Carlos Quentin:Quentin:H:SDG @ chc:F,4-2:1:3:0:0:0::::0:0::::::::::1:1::1::::::0:::0:::LF:::
+493351:Alexei Ramirez:Ramirez, Al:H:CHW @ tex:F,3-1:1:4:1:0:2::::0:1:1:::::::::1:::1::::::0:::1:::SS:::
+467092:Wilson Ramos:Ramos, W:H:WAS @ atl:F,3-1:1:4:1:0:0::::0:0::::::::::1:::1::::::4:::1:::C::1:
+285068:Cody Ransom:Ransom:H:CHC v sdg:F,2-4:1:3:0:0:0::::1:2::::::::::1:::1::::::2:::0:::3B:::
+458675:Colby Rasmus:Rasmus, C:H:TOR v bos:F,1-3:1:4:0:0:3::::0:0::::::::::1:::1::::::1:::1:::CF:::
+460099:Nolan Reimold:Reimold:H:BAL @ laa:F,5-1:1:4:3:0:2::::0:0::::::::::1:::1::::::0:::1:::DH:::
+543685:Anthony Rendon:Rendon:H:WAS @ atl:F,3-1:1:3:1:0:2::::1:0::::::::::1:::1::::::2:::1:::3B:::
+425567:Alex Rios:Rios:H:CHW @ tex:F,3-1:1:4:0:0:0::::1:1::::::::::1:::1::::::3:::1:::RF:::
+519203:Anthony Rizzo:Rizzo:H:CHC v sdg:F,2-4:1:4:0:0:1::::0:1::::::::::1:::1::::::2:::1:::1B:::
+276519:Jimmy Rollins:Rollins:H:PHI v mia:F,7-2:1:4:1:0:0::::0:0::::::::::1:::1::::::2:1::1:::SS:::
+424325:David Ross:Ross, D:H:BOS @ tor:F,3-1:1:1:1:0:0::::3:0::::::::::1:::1::::::1:1::1:::C:::
+448605:Justin Ruggiano:Ruggiano:H:MIA @ phi:F,2-7:1:3:1:1:1:::1:1:1::::::::::1:::1::::::1:::1:::CF:::
+543743:Dave Sappelt:Sappelt:H:CHC v sdg:F,2-4:1:4:0:0:1::::0:0::::::::::1:::1::::::2:::0:::CF:::
+457788:Jordan Schafer:Schafer, J:H:ATL v was:F,1-3:1:4:0:0:0::::0:1::::::::::1:::1::::::2:::1:::RF:::
+502582:Logan Schafer:Schafer, L:H:MIL v stl:F,5-6:1:1:1:0:1::::0:0:::::::::::::1::::::0:::0:::PH:::
+435625:Nate Schierholtz:Schierholtz:H:CHC v sdg:F,2-4:1:1:0:0:1:1:::0:0:::::::::::::1::::::0:::1:::PH:::
+432928:Luke Scott:Scott:H:TAM @ kan:B4:1:1:0:0:0::::1:0::::::::::1:::1::::::1:::1:::DH:::
+516416:Jean Segura:Segura:H:MIL v stl:F,5-6:1:3:0:1:0::::1:1::::::::::1:::1::1::::3:::1:::SS:::
+543776:J.B. Shuck:Shuck:H:LAA v bal:F,1-5:1:3:0:0:0::::0:0::::::::::1:::1::::::1:::1:::LF:::
+592743:Andrelton Simmons:Simmons:H:ATL v was:F,1-3:1:3:0:0:0::::0:0::::::::::1:::1::::::0:::1:::SS:::
+456781:Donovan Solano:Solano, D:H:MIA @ phi:F,2-7:1:4:0:0:2::::0:0::::::::::1:::1:::1:::0:::1:::2B:::
+150093:Alfonso Soriano:Soriano, A:H:CHC v sdg:F,2-4:1:4:0:0:1::::0:1::::::::::1:::1::::::2:1::1:::LF:::
+452655:Denard Span:Span:H:WAS @ atl:F,3-1:1:4:1:2:3:2:::1:0::::::::::1:::1::::::0:::1:::CF:::
+429710:Chad Tracy:Tracy:H:WAS @ atl:F,3-1:1:1:0:0:0::::0:1:::::::::::::1::::::0:::0:::PH:::
+545361:Mike Trout:Trout:H:LAA v bal:F,1-5:1:3:0:0:0::::1:0::::::::::1:::1::::::1:::1:::CF:::
+444432:Mark Trumbo:Trumbo:H:LAA v bal:F,1-5:1:3:0:0:0::::1:1::::::::::1:::1::::::1:::1:::DH:::
+449168:Matt Tuiasosopo:Tuiasosopo:H:DET @ hou:F,7-3:1:3:0:2:1:1:::1:2:::::::::::::1::::::2:::1:::PH-LF:::
+462564:Dan Uggla:Uggla:H:ATL v was:F,1-3:1:4:1:1:1:::1:0:0::::::::::1:::1::::::3:::1:::2B:::
+425834:B.J. Upton:Upton, B:H:ATL v was:F,1-3:1:3:0:0:0::::0:0::::::::::1:::1::::::0:::1:::CF:::
+457708:Justin Upton:Upton, J:H:ATL v was:F,1-3:1:4:0:0:0::::0:1::::::::::1:::1:::1:::0:::1:::LF:::
+400284:Chase Utley:Utley:H:PHI v mia:F,7-2:1:3:0:1:0::::0:1::::::::::1:::1::1::::0:::1:::2B:::
+472528:Luis Valbuena:Valbuena:H:CHC v sdg:F,2-4:1:1:0:0:0::::0:1:::::::::::::1::::::1:::1:::PH:::
+461416:Will Venable:Venable:H:SDG @ chc:F,4-2:1:1:0:0:0::::0:0:::::::::::::1::::::2:::1:::PH-RF:::
+430001:Rickie Weeks:Weeks, R:H:MIL v stl:F,5-6:1:4:1:0:2::::1:0::::::::::1:::1::::::2:::1:::2B:::
+489413:Casper Wells:Wells, C:H:CHW @ tex:F,3-1:1:3:0:0:0::::1:2::::::::::1:::1::::::1:::1:::LF:::
+150029:Jayson Werth:Werth:H:WAS @ atl:F,3-1:1:2:0:0:0::::0:1::::::::::1:::1::::::1:::0:::RF:::
+446308:Matt Wieters:Wieters:H:BAL @ laa:F,5-1:1:4:0:0:1::::0:1::::::::::1:::1::::::2:::1:::C:::
+430321:Delmon Young:Young, D:H:PHI v mia:F,7-2:1:3:0:0:0::::0:1::::::::::1:::1::::::2:::0:::RF:::
+276545:Michael Young:Young, M:H:PHI v mia:F,7-2:1:4:0:0:2:1:::0:0::::::::::1:::1::::::0:::1:::3B:::
+450314:Ben Zobrist:Zobrist:H:TAM @ kan:B4:1:2:0:0:0::::0:1::::::::::1:::1::::::1:::1:::2B:::
+430599:Joe Blanton:Blanton:P:LAA v bal:F,1-5:1::::::::::::8.0:8:3:2:2:3:Loss:1:::1::::::::1:0:::P:0::
+133225:Ryan Dempster:Dempster:P:BOS @ tor:F,3-1:1::::::::::::6.0:4:1:1:3:4:Win:1:::1::::::::1:0:::P:1::
+518748:Justin Grimm:Grimm:P:TEX v chw:F,1-3:1::::::::::::6.2:6:3:3:4:9:Loss:1:::1::::::::1:0:::P:1::1
+457918:J.A. Happ:Happ:P:TOR v bos:F,1-3:1::::::::::::3.2:3:2:2:7:2:Loss:1:::1::::::::1:0:::P:0::
+429717:Dan Haren:Haren:P:WAS @ atl:F,3-1:1:2:0:0:0::::0:2:::8.0:4:1:1:1:4:Win:1:::1:1:::::0::1:0:::P:1::
+433584:Roberto Hernandez:Hernandez, R:P:TAM @ kan:B4:1::::::::::::3.0:3:1:1:1:2::1:::1::::::::1:1:::P:0::
+452718:Kyle Kendrick:Kendrick, K:P:PHI v mia:F,7-2:1:2:0:0:1::::0:0:::7.0:7:2:2:2:5:Win:1:::1:1:::::1::1:0:::P:1::
+543475:Jordan Lyles:Lyles:P:HOU v det:F,3-7:1::::::::::::5.0:6:2:2:1:6::1:::1::::::::1:0:::P:0::
+450665:Kris Medlen:Medlen:P:ATL v was:F,1-3:1:1:0:0:0::::1:0:::7.0:7:3:3:3:8:Loss:1:::1::::::0::1:0:::P:0::1
+503449:Wily Peralta:Peralta, W:P:MIL v stl:F,5-6:1:2:0:0:0::::0:1:::4.1:11:6:6:2:3:Loss:1::1:1::::::2::1:0:::P:0::
+519144:Rick Porcello:Porcello:P:DET @ hou:F,7-3:1::::::::::::7.0:5:3:3:0:7::1:::1:::1:::::1:0:::P:2::
+502253:Alex Sanabia:Sanabia:P:MIA @ phi:F,2-7:1:2:0:0:0::::0:1:::5.0:6:4:2:2:4:Loss:1:::1::::::2::1:0::1:P:2::
+429722:Ervin Santana:Santana, E:P:KAN v tam:B4:1::::::::::::4.0:2:0:0:3:7::1:::1:::::1:::1:1:::P:0::
+502327:Hector Santiago:Santiago, H:P:CHW @ tex:F,3-1:1::::::::::::5.1:2:1:1:2:6:Win:1::1:1::::::::1:0:::P:1::
+445590:Eric Stults:Stults:P:SDG @ chc:F,4-2:1:2:0:0:1::::0:1:::6.2:7:2:2:2:4::1:::1::::::0::1:0::1:P:1::
+501957:Chris Tillman:Tillman:P:BAL @ laa:F,5-1:1::::::::::::8.0:3:0:0:2:3:Win:1:::1::::::::1:0:::P:0::
+150414:Jake Westbrook:Westbrook:P:STL @ mil:F,6-5:1:3:1:0:1::::0:0:::6.0:6:1:1:3:4:Win:1:::1::::::5:1:1:0:::P:0::
+475243:Travis Wood:Wood, T:P:CHC v sdg:F,2-4:1:3:0:0:1::::0:0:1::7.2:4:3:3:1:3:Loss:1:::1::::::4::1:0:::P:0::
+430606:Mike Adams:Adams, M:P:PHI v mia:F,7-2:1:0:0:0:0::::0:0:::1.0:0:0:0:0:2:Hold::::1::::::0::1:0:::P:0::
+459932:Hector Ambriz:Ambriz:P:HOU v det:F,3-7:1::::::::::::0.2:0:0:0:1:0:Hold::::1::::::::1:0:::P:0::
+488674:Burke Badenhop:Badenhop:P:MIL v stl:F,5-6:1:0:0:0:0::::0:0:::1.0:0:0:0:0:1:::::1::::::0::1:1:::P:0::
+276542:Joaquin Benoit:Benoit:P:DET @ hou:F,7-3:1::::::::::::2.0:0:0:0:1:3:::::1::::::::1:0:::P:0::
+429715:Travis Blackley:Blackley:P:HOU v det:F,3-7:1::::::::::::1.1:0:0:0:0:2:Hold::::1::::::::1:0:::P:0::
+459939:Mitchell Boggs:Boggs:P:STL @ mil:F,6-5:1:0:0:0:0::::0:0:::0.0:0:0:0:2:0:::::1::::::0::1:0:::P:0::
+542960:Brad Brach:Brach:P:SDG @ chc:F,4-2:1:0:0:0:0::::0:0:::0.0:0:0:0:1:0:::::1::::::0::1:0:::P:0::
+518489:Ryan Brasier:Brasier:P:LAA v bal:F,1-5:1::::::::::::1.0:2:2:2:0:1:::::1::::::::1:1:::P:1::
+425861:Shawn Camp:Camp:P:CHC v sdg:F,2-4:1:0:0:0:0::::0:0:::0.0:0:1:1:1:0:BS::::1::::::0::1:0:::P:0::
+446399:Brett Cecil:Cecil:P:TOR v bos:F,1-3:1::::::::::::1.0:0:0:0:1:2:::::1::::::::1:0:::P:0::
+542585:Jose Cisnero:Cisnero:P:HOU v det:F,3-7:1::::::::::::0.2:1:0:0:0:0:::::1::::::::1:1:::P:0::
+518560:Paul Clemens:Clemens:P:HOU v det:F,3-7:1::::::::::::0.2:0:0:0:0:2:Hold::::1::::::::1:0:::P:0::
+430884:Jesse Crain:Crain:P:CHW @ tex:F,3-1:1::::::::::::1.0:1:0:0:1:1:Hold::::1::::::::1:0:::P:0::
+447755:Steve Delabar:Delabar:P:TOR v bos:F,1-3:1::::::::::::1.2:1:0:0:0:2:::::1::::::::1:0:::P:0::
+445153:Darin Downs:Downs, D:P:DET @ hou:F,7-3:1::::::::::::0.2:1:0:0:0:1:::::1::::::::1:0:::P:0::
+451628:Alfredo Figaro:Figaro:P:MIL v stl:F,5-6:1:0:0:0:0::::0:0:::2.2:1:0:0:0:2:::::1::::::0::1:0:::P:0::
+518715:Cory Gearrin:Gearrin:P:ATL v was:F,1-3:1:0:0:0:0::::0:0:::1.0:0:0:0:1:1:::::1::::::0::1:0:::P:0::
+452733:Tom Gorzelanny:Gorzelanny:P:MIL v stl:F,5-6:1:0:0:0:0::::0:0:::1.0:0:0:0:0:0:::::1::::::0::1:0:::P:0::
+502381:Luke Gregerson:Gregerson:P:SDG @ chc:F,4-2:1:0:0:0:0::::0:0:::1.0:1:0:0:0:1:Hold::::1::::::0::1:0:::P:0::
+430629:Joel Hanrahan:Hanrahan:P:BOS @ tor:F,3-1:1::::::::::::1.0:1:0:0:0:0:Save::::1::::::::1:1:::P:0::
+462382:Jim Johnson:Johnson, J:P:BAL @ laa:F,5-1:1::::::::::::1.0:1:1:1:0:2:::::1::::::::1:1:::P:1::
+523260:Joe Kelly:Kelly, J:P:STL @ mil:F,6-5:1:0:0:0:0::::0:0:::0.2:2:2:2:0:1::::1:1::::::0::1:0:::P:0::
+572971:Dallas Keuchel:Keuchel:P:HOU v det:F,3-7:1::::::::::::4.1:7:4:4:4:4:Loss::::1::::::::1:0::2:P:0::
+457779:Michael Kirkman:Kirkman:P:TEX v chw:F,1-3:1::::::::::::0.1:0:0:0:0:1:::::1::::::::1:0:::P:0::
+543408:Tom Koehler:Koehler:P:MIA @ phi:F,2-7:1:0:0:0:0::::0:0:::2.0:2:3:3:2:0:::::1::::::0::1:1:::P:0::1
+453184:Brad Lincoln:Lincoln:P:TOR v bos:F,1-3:1::::::::::::1.2:1:1:1:1:2:::::1::::::::1:0:::P:0::1
+434637:Matt Lindstrom:Lindstrom:P:CHW @ tex:F,3-1:1::::::::::::0.2:0:0:0:2:0:Hold::::1::::::::1:0:::P:0::1
+461791:Carlos Marmol:Marmol:P:CHC v sdg:F,2-4:1:0:0:0:0::::0:0:::1.0:1:0:0:0:0::::1:1::::::0::1:1:::P:0::
+453192:Andrew Miller:Miller, A:P:BOS @ tor:F,3-1:1::::::::::::0.2:1:0:0:1:1:Hold::::1::::::::1:0:::P:0::
+465629:Edward Mujica:Mujica:P:STL @ mil:F,6-5:1:0:0:0:0::::0:0:::1.0:2:1:1:0:2:Save::::1::::::0::1:1:::P:0::
+514639:Jose Ortega:Ortega, J:P:DET @ hou:F,7-3:1::::::::::::2.0:0:0:0:0:3:::::1::::::::1:0:::P:0::
+449097:Jonathan Papelbon:Papelbon:P:PHI v mia:F,7-2:1:0:0:0:0::::0:0:::1.0:0:0:0:0:0:::::1::::::0::1:1:::P:0::
+446367:Luke Putkonen:Putkonen:P:DET @ hou:F,7-3:1::::::::::::2.1:0:0:0:1:4:Win::::1::::::::1:1:::P:0::
+400010:Jon Rauch:Rauch:P:MIA @ phi:F,2-7:1:0:0:0:0::::0:0:::1.0:0:0:0:1:1:::::1::::::0::1:0:::P:0::
+592665:Addison Reed:Reed, A:P:CHW @ tex:F,3-1:1::::::::::::1.0:0:0:0:2:3:Save::::1::::::::1:1:::P:0::
+469134:Esmil Rogers:Rogers, E:P:TOR v bos:F,1-3:1::::::::::::1.0:1:0:0:1:0:::::1::::::::1:1:::P:0::
+572096:Trevor Rosenthal:Rosenthal:P:STL @ mil:F,6-5:1:0:0:0:0::::0:0:::1.1:2:1:0:0:3:Hold::::1::::::0::1:0:::P:0::
+543726:Robbie Ross:Ross, R:P:TEX v chw:F,1-3:1::::::::::::1.0:2:0:0:0:1:::::1::::::::1:1:::P:0::
+460701:James Russell:Russell:P:CHC v sdg:F,2-4:1:0:0:0:0::::0:0:::0.1:2:0:0:0:1::::1:1::::::0::1:0:::P:0::
+489294:Tanner Scheppers:Scheppers:P:TEX v chw:F,1-3:1::::::::::::1.0:0:0:0:0:0:::::1::::::::1:0:::P:0::
+400089:Rafael Soriano:Soriano, R:P:WAS @ atl:F,3-1:1:0:0:0:0::::0:0:::1.0:1:0:0:0:0:Save::::1::::::0::1:1:::P:0::
+434718:Huston Street:Street:P:SDG @ chc:F,4-2:1:0:0:0:0::::0:0:::1.0:1:0:0:0:1:Save::::1::::::0::1:1:::P:0::
+547749:Junichi Tazawa:Tazawa:P:BOS @ tor:F,3-1:1::::::::::::0.1:0:0:0:1:1:Hold::::1::::::::1:0:::P:0::
+491159:Joe Thatcher:Thatcher:P:SDG @ chc:F,4-2:1:0:0:0:0::::0:0:::0.1:0:0:0:0:1:Win::::1::::::0::1:0:::P:0::
+407819:Matt Thornton:Thornton:P:CHW @ tex:F,3-1:1::::::::::::1.0:0:0:0:0:1:Hold::::1::::::::1:0:::P:0::
+493157:Koji Uehara:Uehara:P:BOS @ tor:F,3-1:1::::::::::::1.0:1:0:0:0:2:Hold::::1::::::::1:0:::P:0::
+407842:Jose Veras:Veras:P:HOU v det:F,3-7:1::::::::::::1.1:0:0:0:0:4:::::1::::::::1:0:::P:0::
+477229:Jordan Walden:Walden:P:ATL v was:F,1-3:1:0:0:0:0::::0:0:::1.0:1:0:0:1:3:::::1::::::0::1:1::1:P:0::
+449079:Wesley Wright:Wright, W:P:HOU v det:F,3-7:1::::::::::::0.0:1:1:0:0:0:BS:::1:1::::::::1:0:::P:0::

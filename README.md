@@ -5,4 +5,4 @@ Trying to predict winners in baseball games, this is for fun and to learn R. Tra
 
 Thank Yous
 ==========
-Thanks to Dave Hall of dailybaseballdata.com for providing the data, which is freely available.
+Thanks to Dave Hall of dailybaseballdata.com for providing the data, which is freely available on his site.
